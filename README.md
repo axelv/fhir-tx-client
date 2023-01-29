@@ -1,10 +1,10 @@
 # FHIR Terminology Client
 A micro-library built on top of `fhirpy` and `fhir.resources` bringing FHIR Terminology at your Python fingertips.
 
-## Looking for a quick example?
-[Validate SNOMED-CT code in ValueSet](./examples/1.0-validate-snomed-code-in-valueset.ipynb)
+⚠️ This is work-in-progress ⚠️
 
-## The rationale behind this library:
-Read [this blogpost](https://axelv.github.io/drafts/fhir-tx-python)
+### Looking for a quick example?
+Here you have an example notebook: [1.0-validate-snomed-code-in-valueset.ipynb](./examples/1.0-validate-snomed-code-in-valueset.ipynb)
 
-**work in progress**
+### The rationale behind this library:
+This library is the result of a blogpost I've written. Read [the blogpost here](https://axelv.github.io/drafts/fhir-tx-python)
