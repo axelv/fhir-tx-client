@@ -22,3 +22,18 @@ This library is the result of a blogpost I've written. Read [the blogpost here](
 Here you have an example notebook: [1.0-validate-snomed-code-in-valueset.ipynb](./examples/1.0-validate-snomed-code-in-valueset.ipynb)
 
 
+## Install this package
+
+Choose your preferred package/dependency manager
+
+```python
+pip install fhir-tx
+```
+
+```python
+pipenv install fhir-tx
+```
+
+```python
+poetry install fhir-tx
+```
